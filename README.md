@@ -1,5 +1,23 @@
-# About me
 
+
+👋 Hey there! I'm Ali
+
+# 💻 Software Engineer | 🎨 Frontend Developer | 🤖 AI Enthusiast | 🎵 Audio Gear Builder
+
+
+---
+
+# About Me
+I’m a software engineer with a deep passion for problem-solving, creativity, and cutting-edge technology. My tech journey started out of pure curiosity, but before I knew it, I was hooked on building things that people love using.
+
+# 🖥️ Tech & Web Development:
+I mainly work with React.js, designing and developing user-friendly, intuitive web applications. I’m all about interactive UI/UX and love crafting sleek, engaging web experiences. If there's an opportunity to push the boundaries of creativity, count me in!
+
+# 🤖 AI & Large Language Models:
+I'm deeply involved in fine-tuning LLMs, making them smarter and more specialized. The intersection of AI, machine learning, and human interaction excites me, and I'm always looking for ways to push this field forward.
+
+# 🎛️ Audio Gear & Music Production:
+When I'm not coding, you'll find me building pro audio gear—from guitar pedals 🎸 to compressors and custom audio devices 🎚️. I love blending my passion for tech and sound design to create something unique.
 
 
 
