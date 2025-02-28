@@ -7,11 +7,6 @@
  #### 🤖 AI Enthusiast 
  #### 🎵 Audio Gear Builder
 
-
----
-
-
-
 I’m a software engineer with a deep passion for problem-solving, creativity, and cutting-edge technology. My tech journey started out of pure curiosity, but before I knew it, I was hooked on building things that people love using.
 ### Portfolio 
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mash_021)
@@ -56,10 +51,6 @@ When I'm not coding, you'll find me building pro audio gear—from guitar pedals
 
 ---
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mash021&show_icons=true&theme=dark)
-
----
 ## 🎨 Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mash021&layout=compact&theme=dark)
