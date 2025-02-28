@@ -1,16 +1,16 @@
-
+# About Me
 
 👋 Hey there! I'm Ali
 
- 💻 Software Engineer 
- 🎨 Frontend Developer 
- 🤖 AI Enthusiast 
- 🎵 Audio Gear Builder
+ #### 💻 Software Engineer 
+ #### 🎨 Frontend Developer 
+ #### 🤖 AI Enthusiast 
+ #### 🎵 Audio Gear Builder
 
 
 ---
 
-# About Me
+
 
 I’m a software engineer with a deep passion for problem-solving, creativity, and cutting-edge technology. My tech journey started out of pure curiosity, but before I knew it, I was hooked on building things that people love using.
 ### Portfolio 
