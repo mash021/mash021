@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hey there! I'm Ali
+👋 Hey there! I'm Ali.
 
  #### 💻 Software Engineer 
  #### 🎨 Frontend Developer 
