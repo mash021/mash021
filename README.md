@@ -47,8 +47,7 @@ When I'm not coding, you'll find me building pro audio gear—from guitar pedals
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![LLM Model](https://img.shields.io/badge/LLM-GPT4-blue?style=for-the-badge)
-
+![Ollama](https://img.shields.io/badge/LLM-Ollama-blue?style=for-the-badge)
 
 ---
 
