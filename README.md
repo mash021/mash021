@@ -50,10 +50,10 @@
 ---
  
 
-## 🎨 Most Used Languages  
+ ## 🎨 Most Used Languages  
 
-📊 **Check out my interactive 3D chart:**  
- [Most Used Languages - 3D Chart]( https://mash021.github.io/mash021/)
+📊 **Most Used Languages (3D Interactive Chart)**  
+🔗 [View Interactive Chart](https://mash021.github.io/mash021/index.html)
 
 ---
 
