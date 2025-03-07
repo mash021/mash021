@@ -51,18 +51,8 @@
 
 ---
 
-## 🎨 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mash021&layout=compact&theme=dark)
 
----
-## 📬 Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharifima93@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisharifi2/)
-  
-
----
 
 ## 🎨 Most Used Languages  
 
@@ -78,8 +68,11 @@
 ---
 
 ## 📬 Let's Connect!  
-📧 **[Email](mailto:sharifima93@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/alisharifi2/)**  
+## 📬 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharifima93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisharifi2/)
+  
 
 ---
 
