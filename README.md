@@ -1,4 +1,4 @@
-<style>background color:black;</style>
+
 <h1 align="center">👋 Hey there! I'm Ali</h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## What I Do  
+## </>What I Do  
 
 ### 🖥️ Web Development & UI/UX  
 🎨 Specializing in **React.js**, **Next.js**, and **modern UI/UX** to craft intuitive and engaging web experiences.
