@@ -1,3 +1,4 @@
+<style>background color:black;</style>
 <h1 align="center">👋 Hey there! I'm Ali</h1>
 
 <p align="center">
