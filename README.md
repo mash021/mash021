@@ -48,12 +48,12 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
+ 
 
 ## 🎨 Most Used Languages  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mash021&layout=compact&theme=dark" />
-</p>
+📊 **Check out my interactive 3D chart:**  
+🔗 [Most Used Languages - 3D Chart](https://mash021.github.io/mash021/chart.html)
 
 ---
 
