@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hey there! I'm Ali</h1>
+<h1 align="center">👋 Hey there! I'm Mike</h1>
 
 <p align="center">
   <strong>💻 Software Engineer | 🎨 Frontend Developer | 🤖 AI Enthusiast | 🎛️ Audio Gear Builder</strong>
