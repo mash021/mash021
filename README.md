@@ -9,7 +9,7 @@
 
 ## </>What I Do  
 
-### 🖥️ Web Development & UI/UX  
+### 🖥️ Web Development  
 🎨 Specializing in **React.js**, **Next.js**, and **modern UI/UX** to craft intuitive and engaging web experiences.
 
 ### 🤖 AI & Large Language Models  
